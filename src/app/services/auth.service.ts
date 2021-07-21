@@ -10,7 +10,7 @@ export class AuthService {
  
   private url = "https://identitytoolkit.googleapis.com/v1/accounts"
   // Clave de la API web 
-  private apikey = "AIzaSyBb-AEAa6ERaiNpkDd-dy9pPzjep7sn4vk"
+  private apikey = ""
   // crear usuarios
   // https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=[API_KEY]
   // Login
